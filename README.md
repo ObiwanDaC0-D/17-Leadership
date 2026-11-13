@@ -8,6 +8,7 @@ A standalone, responsive GitHub Pages application for studying leadership as a r
 - **Explore:** learning dashboard, domain discovery and study progress.
 - **Theory Library:** searchable frameworks with central ideas, reading leads, practical applications and evidence cautions.
 - **Concept Map:** domain-organized conceptual exploration.
+- **Organizational Power & Influence Lab (V3):** eight influence mechanisms, four organizational cases, stakeholder and informal-network mapping prompts, coalition analysis, ethical safeguards, saved analyses and JSON export.
 - **Style Adaptation Lab (V2):** compare seven leadership approaches while adjusting urgency, team experience, authority distribution, task ambiguity and psychological safety; receive context-specific qualitative considerations; save, revisit and export comparisons.
 - **Leadership Simulator:** compare five contexts and five leadership responses with qualitative tradeoffs; save experiments.
 - **Decision Lab:** structure objectives, alternatives, evidence, uncertainty, stakeholders, tradeoffs, decisions and review triggers.
@@ -33,4 +34,4 @@ The theory library provides foundational reading leads, not a verified systemati
 
 ## Status
 
-V2 committed to main. JavaScript syntax validated. Live browser end-to-end testing and GitHub Pages deployment verification remain outstanding.
+V3 committed to main. JavaScript syntax validated. Live browser end-to-end testing and GitHub Pages deployment verification remain outstanding.
